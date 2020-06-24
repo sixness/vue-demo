@@ -3,7 +3,7 @@
     <img alt="Vue logo" class="logo" src="./assets/logo.svg">
     <MainContent 
     title="Welcome to sixness Vue App"
-    content="This is sixness Vue App."
+    content="This is sixness Vue App version 1.1"
     />
   </div>
 </template>
